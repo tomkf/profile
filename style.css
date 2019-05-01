@@ -1,0 +1,97 @@
+ body {
+background-image: url("https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661");
+  font-family: 'Open Sans', sans-serif;
+ font-weight: 250px;
+ }
+
+
+.headContainter {
+  padding-bottom: 25px;
+  opacity 0.5
+}
+
+ .headContainter h1 {
+    text-align: center;
+  font-size: 50px;
+border-bottom: 1px solid black;
+padding-bottom: 10px;
+ }
+
+.headContainter .smallHeader {
+    text-align: center;
+  font-size: 25px;
+  color: red;
+}
+
+.headContainter .paragraph{
+  text-align: center;
+}
+
+
+.footerContiner a {
+  color: red;
+}
+
+
+.imgContainer .oceanphoto {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+    border-radius: 55%;
+      padding-bottom: 30px;
+
+}
+
+
+/*.imgContainer .stairs {
+
+}*/
+
+
+.footerContiner {
+    text-align: center;
+}
+
+
+
+
+.footerContiner .button {
+  padding-bottom: 50px;
+
+}
+
+
+
+
+@media (max-width: 450px) {
+
+
+ .headContainter h1 {
+font-size: 30px;
+padding-bottom: 5px;
+ }
+
+.headContainter {
+padding-bottom: 10px;
+}
+
+.headContainter .smallHeader {
+font-size: 30px;
+}
+
+
+.imgContainer .oceanphoto {
+      padding-bottom: 5px;
+    height: 200px;
+    width: 300px;
+}
+
+.footerContiner {
+padding-bottom: 5px;
+font-size: 25px;
+}
+
+}
+
+
